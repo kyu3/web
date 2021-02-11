@@ -1,0 +1,23 @@
+/* Keith Yu
+  IntroCS pd6 sec10
+  HW05 -- Stuylin'
+  2021-2-11 */
+
+html{
+  font-family: 'calibri'; /* changes all the text in the file to have the font calibri */
+  background-color: rgb(129, 164, 219); /* changes the background color to a light blue */
+  text-align: center; /* centers the text */
+}
+ul{
+
+  display: inline;
+} /*this block centers the unordered list since the bullets can't be centered through text-align */
+h2{
+  text-decoration: underline; /* underlines all the headings with h2 */
+}
+p {
+    color: red /*changes the font color of the paragraphs to red */
+  }
+a{
+  color: blue /* changes the font color of the links to always be blue even if the link is clicked */
+}
